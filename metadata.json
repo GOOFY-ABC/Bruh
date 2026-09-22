@@ -1,0 +1,6 @@
+{
+  "name": "DuckDuckGo Cloaked Browser",
+  "description": "Privacy-focused browser with about:blank tab cloaking and sandboxed iframe with full clickable link support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
